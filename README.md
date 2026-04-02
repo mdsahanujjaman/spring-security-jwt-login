@@ -36,3 +36,15 @@
 
 ***admin / admin123***
 
+
+
+***## UI (Optional)***
+
+***Open in browser:***
+
+***http://localhost:8082/login.html***
+
+
+
+***Enter credentials to get JWT token.***
+
